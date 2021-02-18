@@ -1,0 +1,3 @@
+export const FETCH_COMMENTS = 'FETCH_COMMENTS'
+export const FETCH_SUCCESS = 'FETCH_SUCESS'
+export const FETCH_FAILURE = 'FETCH_FAILURE',
