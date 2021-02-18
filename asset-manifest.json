@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Hiba-Ayoub/monsters-app/static/css/main.eec41667.chunk.css",
+    "main.js": "/Hiba-Ayoub/monsters-app/static/js/main.90fe6c83.chunk.js",
+    "main.js.map": "/Hiba-Ayoub/monsters-app/static/js/main.90fe6c83.chunk.js.map",
+    "runtime-main.js": "/Hiba-Ayoub/monsters-app/static/js/runtime-main.20ee94e1.js",
+    "runtime-main.js.map": "/Hiba-Ayoub/monsters-app/static/js/runtime-main.20ee94e1.js.map",
+    "static/js/2.5e107498.chunk.js": "/Hiba-Ayoub/monsters-app/static/js/2.5e107498.chunk.js",
+    "static/js/2.5e107498.chunk.js.map": "/Hiba-Ayoub/monsters-app/static/js/2.5e107498.chunk.js.map",
+    "static/js/3.a9849560.chunk.js": "/Hiba-Ayoub/monsters-app/static/js/3.a9849560.chunk.js",
+    "static/js/3.a9849560.chunk.js.map": "/Hiba-Ayoub/monsters-app/static/js/3.a9849560.chunk.js.map",
+    "index.html": "/Hiba-Ayoub/monsters-app/index.html",
+    "static/css/main.eec41667.chunk.css.map": "/Hiba-Ayoub/monsters-app/static/css/main.eec41667.chunk.css.map",
+    "static/js/2.5e107498.chunk.js.LICENSE.txt": "/Hiba-Ayoub/monsters-app/static/js/2.5e107498.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Hiba-Ayoub/monsters-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20ee94e1.js",
+    "static/js/2.5e107498.chunk.js",
+    "static/css/main.eec41667.chunk.css",
+    "static/js/main.90fe6c83.chunk.js"
+  ]
+}
